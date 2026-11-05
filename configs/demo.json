@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "frames": 480,
+  "timestep_fs": 2.0,
+  "history": 4,
+  "train_fraction": 0.6,
+  "validation_fraction": 0.2,
+  "ridge_alpha": 0.01,
+  "species": "Li",
+  "msd_max_lag": 48,
+  "msd_fit_start": 12,
+  "msd_fit_stop": 40,
+  "input": "data/synthetic/demo.json",
+  "output": "experiments/runs/demo"
+}
